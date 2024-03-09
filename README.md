@@ -1,4 +1,5 @@
 # Self-Driving-Car
 Training autonomous car driving system
-https://github.com/wannasleepforlong/Self-Driving-Car/assets/109717763/93ec4912-576c-4ef4-b638-ba3c6552b082
+
+https://github.com/wannasleepforlong/Self-Driving-Car/assets/109717763/bfc4a06c-d17a-428d-a9f4-f756ef81850a
 
