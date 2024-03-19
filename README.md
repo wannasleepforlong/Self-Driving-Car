@@ -38,7 +38,7 @@ Sent steering angle and throttle commands back to the simulator to control the c
 1. Clone the repository to your local machine.
 2. Download the Udacity car simulator from [here](https://github.com/udacity/self-driving-car-sim).
 3. Install the required dependencies.
-4. Run the Python script `main.py` to train the deep learning model.
+4. Run the Python script `main.ipynb` to train the deep learning model.
 5. Launch the Udacity car simulator and select the autonomous mode.
 6. Once trained, run the command in cmd `python drive.py`
 
